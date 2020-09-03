@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/shakilbd009/go-items-api/src/clients/elasticsearch"
+	"github.com/shakilbd009/go-items-api/clients/elasticsearch"
 )
 
 const (

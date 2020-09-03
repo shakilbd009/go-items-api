@@ -3,7 +3,7 @@ package app
 import (
 	"net/http"
 
-	"github.com/shakilbd009/go-items-api/src/controllers"
+	"github.com/shakilbd009/go-items-api/controllers"
 )
 
 func urlMapping() {
